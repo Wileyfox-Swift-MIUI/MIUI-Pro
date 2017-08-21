@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="lordhmen.miui.pro.ProInstructions">
+
+    <TextView
+        android:id="@+id/pro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16.0dip"
+        android:textStyle="bold"
+        android:textColor="#46757F"
+        android:text="@string/pro_version_instructions_text" />
+
+</FrameLayout>

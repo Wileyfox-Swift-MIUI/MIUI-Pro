@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MIUI8-Pro</string>
+    <string name="appTitle">MIUI8-Pro</string>
+    <string name="navigation_drawer_open">Открыть навигационный ящик</string>
+    <string name="navigation_drawer_close">Закрыть навигационный ящик</string>
+    <string name="action_settings">Настройки</string>
+    <string name="information">Главная</string>
+    <string name="informationtext1">- Оптимизация оперативной памяти и батареи</string>
+    <string name="informationtext2">- Множество настроек кастомизаци</string>
+    <string name="informationtext3">- Регулярные обновления rom</string>
+    <string name="writedeveloper">Написать разработчику</string>
+    <string name="emailclient">Выберите email клиент:</string>
+    <string name="messagesubject">Тема сообщения</string>
+    <string name="messagetext">Текст сообщения</string>
+    <string name="send">Отправить</string>
+    <string name="featuresapp"><u>Преимущества Pro версии:</u></string>
+    <string name="features_pro">Возможности Pro версии</string>
+    <string name="features_pro_update">Внимание! Данный список обновляется автоматически при запуске приложения при наличии интернета.</string>
+    <string name="about">О приложение</string>
+    <string name="about_developer">Разработчик: Lordhmen</string>
+    <string name="about_version">Версия: 0.1</string>
+    <string name="version">Версия приложения:</string>
+    <string name="v">MIUI8-Pro 0.1</string>
+    <string name="pro_version_instructions">Переход на Pro версию</string>
+    <string name="pro_version_instructions_text">The cost of the Pro version of MIUI is 149 rubles. You can pay using:\n\n- Yandex money: 410012307220234\n- QIWI: +79028976787\n- VISA: 4693 9571 4914 3344\n- MasterCard: 5106 2160 2128 4728.\n\nAfter the payment is sent to the developer in the telegram <a href="https://telegram.me/Lordhmen">@Lordhmen</a> and get a download link. On questions of support and others - write in <a href="https://t.me/joinchat/DdYe5UOfUc3GoHTK-IctYg">MIUI8-Free</a></string>
+</resources>

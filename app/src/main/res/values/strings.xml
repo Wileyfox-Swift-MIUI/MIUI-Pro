@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MIUI8-Pro</string>
+    <string name="appTitle">MIUI8-Pro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="information">Home</string>
+    <string name="informationtext1">- Optimization of RAM and battery</string>
+    <string name="informationtext2">- A lot of settings customization</string>
+    <string name="informationtext3">- Regular updates of rom</string>
+    <string name="writedeveloper">Write to the developer</string>
+    <string name="emailclient">Select email client:</string>
+    <string name="messagesubject">Message subject</string>
+    <string name="messagetext">Message text</string>
+    <string name="send">Send</string>
+    <string name="featuresapp"><u>Advantages of Pro version:</u></string>
+    <string name="features_pro">Pro version features</string>
+    <string name="features_pro_update">Attention! This list is updated automatically when you run the application with access to the Internet.</string>
+    <string name="about">About the app</string>
+    <string name="about_developer">Developer: Lordhmen</string>
+    <string name="about_version">Version: 0.1</string>
+    <string name="version">Application version:</string>
+    <string name="v">MIUI8-Pro 0.1</string>
+    <string name="pro_version_instructions">Go to the Pro version</string>
+    <string name="pro_version_instructions_text">Стоимость Pro версии MIUI 149 руб. Оплатить можно с помощью:\n\n- Яндекс деньги: 410012307220234\n- QIWI: +79028976787\n- VISA: 4693 9571 4914 3344\n- MasterCard: 5106 2160 2128 4728.\n\nПосле проведения оплаты отправляете чек разработчику в телеграм <a href="https://telegram.me/Lordhmen">@Lordhmen</a> и получаете ссылку на скачивание. По вопросам поддержки и другим - писать в <a href="https://t.me/joinchat/DdYe5UOfUc3GoHTK-IctYg">MIUI8-Free</a></string>
+</resources>
