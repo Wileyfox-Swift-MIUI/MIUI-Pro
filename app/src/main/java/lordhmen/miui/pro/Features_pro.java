@@ -35,7 +35,7 @@ public class Features_pro extends Fragment {
                 try {
                     DefaultHttpClient hc = new DefaultHttpClient();
                     ResponseHandler response = new BasicResponseHandler();
-                    HttpGet http = new HttpGet("https://");
+                    HttpGet http = new HttpGet("https://rawgit.com/Wileyfox-Swift-MIUI/MIUI-Pro/master/Features-Pro");
                     final String features_pro = (String) hc.execute(http, response);
                     getActivity().runOnUiThread(new Runnable() {
                         @Override
