@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MIUI8-Pro.iml" filepath="$PROJECT_DIR$/MIUI8-Pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MIUI-Pro.iml" filepath="$PROJECT_DIR$/MIUI-Pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
